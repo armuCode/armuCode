@@ -3,9 +3,41 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armucode&label=Profile%20views&color=0e75b6&style=flat" alt="armucode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armucode" alt="armucode" /></a> </p>
-
 - 🔭 I’m currently working on [MusiCommerce](https://github.com/armuCode)
+- ![image](https://user-images.githubusercontent.com/92812509/187521393-0411964f-96a8-49b4-8d66-8d3770fb35c3.png)
+
+Estoy afrontando el reto de desarrollar una tienda en línea para la compra de instrumentos musicales junto a un equipo de 6 desarrolladores usando las tecnologías:
+• ​JavaScript.
+• ​React, Redux, HTML, Tailwindd CSS.
+• ​Node.js, Express.js, Sequelize.
+• ​PostgreSQL.
+
+Para este proyecto nos enfocamos en programar tanto el back como el  front y las diferentes secciones propias de un e-commerce.
+
+En la sección de usuarios
+• Registrase y después iniciar sección por la web o por Google.
+​• ​Buscar instrumentos por nombre.
+• ​Filtrar por categorías.
+• ​Cada Card al hacerle clic puedes ver los detalles del instrumento poder agregar al carrito y/o a favoritos.
+​• ​Ordenar por precio y alfabéticamente.
+• ​Ordenar por Tipos cuerda viento o percusión.
+• ​Poder comprar los instrumentos con tarjeta de crédito.
+• ​Crear un paginado.
+• Crear un carrito de compras con su stock y pasarela de pagos en stripe.
+• Crear un rewiev con rating después de comprar.
+• Editar su perfil
+• Cambiar su contraseña via correo electrónico al igual las compras y al registrase recibir un email a sus cuentas asociadas al ecommerce
+•Comunicarse con el ecommercer via WhatsApp
+
+En la sección de admin
+• Crear un panel de administración del ecommerse
+• Modulo de agregar, editar, eliminar y ocultar instrumentos
+• Modulo de ver, bannear, usuarios.
+• Modulo de Estadísticas de productos vendidos
+• Modulo de agregar, editar, bannear o ocultar categorías
+• Modulo de crear, editar, eliminar o bannear otros admin
+• Modulo de Historial de compras global de cada usuario
+• Modulo perfil del admin
 
 - 🌱 I’m currently learning **TypeScript**
 
