@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armucode&label=Profile%20views&color=0e75b6&style=flat" alt="armucode" /> </p>
 
 - 🔭 I’m currently working on [MusiCommerce](https://github.com/armuCode)
-- ![image](https://user-images.githubusercontent.com/92812509/187521393-0411964f-96a8-49b4-8d66-8d3770fb35c3.png)
+ ![image](https://user-images.githubusercontent.com/92812509/187521393-0411964f-96a8-49b4-8d66-8d3770fb35c3.png)
 
 Estoy afrontando el reto de desarrollar una tienda en línea para la compra de instrumentos musicales junto a un equipo de 6 desarrolladores usando las tecnologías:
 • ​JavaScript.
