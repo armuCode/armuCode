@@ -6,38 +6,38 @@
 - 🔭 I’m currently working on [MusiCommerce](https://github.com/armuCode)
  ![image](https://user-images.githubusercontent.com/92812509/187521393-0411964f-96a8-49b4-8d66-8d3770fb35c3.png)
 
-Estoy afrontando el reto de desarrollar una tienda en línea para la compra de instrumentos musicales junto a un equipo de 6 desarrolladores usando las tecnologías:
-• ​JavaScript.
-• ​React, Redux, HTML, Tailwindd CSS.
-• ​Node.js, Express.js, Sequelize.
-• ​PostgreSQL.
+I am facing the challenge of developing an online store for the purchase of musical instruments together with a team of 6 developers using the technologies:
+ • JavaScript.
+ • ​React, Redux, HTML, Tailwindd CSS.
+ • Node.js, Express.js, Sequelize.
+ • PostgreSQL.
 
-Para este proyecto nos enfocamos en programar tanto el back como el  front y las diferentes secciones propias de un e-commerce.
+ For this project we focused on programming both the back and the front and the different sections of an e-commerce.
 
-En la sección de usuarios
-• Registrase y después iniciar sección por la web o por Google.
-​• ​Buscar instrumentos por nombre.
-• ​Filtrar por categorías.
-• ​Cada Card al hacerle clic puedes ver los detalles del instrumento poder agregar al carrito y/o a favoritos.
-​• ​Ordenar por precio y alfabéticamente.
-• ​Ordenar por Tipos cuerda viento o percusión.
-• ​Poder comprar los instrumentos con tarjeta de crédito.
-• ​Crear un paginado.
-• Crear un carrito de compras con su stock y pasarela de pagos en stripe.
-• Crear un rewiev con rating después de comprar.
-• Editar su perfil
-• Cambiar su contraseña via correo electrónico al igual las compras y al registrase recibir un email a sus cuentas asociadas al ecommerce
-•Comunicarse con el ecommercer via WhatsApp
+ In the users section you can.
+ • Register and then log in internally on the web or through Google.
+ ​• ​Search for instruments by name.
+ • Filter by categories.
+ • See the details of the instrument, be able to add to the cart and/or to favorites.
+ ​• ​Sort by price and alphabetically.
+ • Sort by type wind string or percussion.
+ • Being able to buy instruments with a credit card.
+ • view by pages.
+ • Add to shopping cart validating stock and pay with stripe.
+ • Create a review and give rating after buying.
+ • Edit your profile
+ • Change your password via email and receive confirmation email
+ • Communicate with the ecommercer via WhatsApp
 
-En la sección de admin
-• Crear un panel de administración del ecommerse
-• Modulo de agregar, editar, eliminar y ocultar instrumentos
-• Modulo de ver, bannear, usuarios.
-• Modulo de Estadísticas de productos vendidos
-• Modulo de agregar, editar, bannear o ocultar categorías
-• Modulo de crear, editar, eliminar o bannear otros admin
-• Modulo de Historial de compras global de cada usuario
-• Modulo perfil del admin
+ In the admin section you can.
+ • Control from your ecommerce administration panel
+ • Module to add, edit, delete and hide instruments
+ • Module to view, ban, users.
+ • Statistics module of products sold
+ • Module to add, edit, ban or hide categories
+ • Module to create, edit, delete or ban other admin
+ • Global purchase history module for each user
+ • Admin profile module
 
 - 🌱 I’m currently learning **TypeScript**
 
