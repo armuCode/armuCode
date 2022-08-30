@@ -4,16 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armucode&label=Profile%20views&color=0e75b6&style=flat" alt="armucode" /> </p>
 
 - 🔭 I’m currently working on [MusiCommerce](https://github.com/armuCode)
- ![image](https://user-images.githubusercontent.com/92812509/187521393-0411964f-96a8-49b4-8d66-8d3770fb35c3.png)
 
-I am facing the challenge of developing an online store for the purchase of musical instruments together with a team of 6 developers using the technologies:
+Https://armusic.vercel.app
+
+<h2>🎙️We are facing the challenge of developing an online store based on musical instruments. </h2>
+
+Technologies used:
  • JavaScript.
  • ​React, Redux, HTML, Tailwindd CSS.
  • Node.js, Express.js, Sequelize.
  • PostgreSQL.
-
  For this project we focused on programming both the back and the front and the different sections of an e-commerce.
-
  In the users section you can.
  • Register and then log in internally on the web or through Google.
  ​• ​Search for instruments by name.
@@ -28,7 +29,6 @@ I am facing the challenge of developing an online store for the purchase of musi
  • Edit your profile
  • Change your password via email and receive confirmation email
  • Communicate with the ecommercer via WhatsApp
-
  In the admin section you can.
  • Control from your ecommerce administration panel
  • Module to add, edit, delete and hide instruments
@@ -38,6 +38,7 @@ I am facing the challenge of developing an online store for the purchase of musi
  • Module to create, edit, delete or ban other admin
  • Global purchase history module for each user
  • Admin profile module
+  ![image](https://user-images.githubusercontent.com/92812509/187521393-0411964f-96a8-49b4-8d66-8d3770fb35c3.png)
 
 - 🌱 I’m currently learning **TypeScript**
 
