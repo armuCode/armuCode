@@ -22,9 +22,9 @@ const aboutMe = {
 };
 ```
 
+<br></br>
 - 🔭 I’m currently working on [MusiCommerce](https://armusic.vercel.app)
 
-<br></br>
 <h2>🎙️We are facing the challenge of developing an online store based on musical instruments. </h2>
 
 Technologies used:
