@@ -23,44 +23,8 @@ const aboutMe = {
 ```
 
 <br></br>
-- 🔭 I’m currently working on [MusiCommerce](https://armusic.vercel.app)
 
-<h2>🎙️We are facing the challenge of developing an online store based on musical instruments. </h2>
-
-Technologies used:
- • JavaScript.
- • ​React, Redux, HTML, Tailwindd CSS.
- • Node.js, Express.js, Sequelize.
- • PostgreSQL.
- For this project we focused on programming both the back and the front and the different sections of an e-commerce.
- In the users section you can.
- • Register and then log in internally on the web or through Google.
- ​• ​Search for instruments by name.
- • Filter by categories.
- • See the details of the instrument, be able to add to the cart and/or to favorites.
- ​• ​Sort by price and alphabetically.
- • Sort by type wind string or percussion.
- • Being able to buy instruments with a credit card.
- • view by pages.
- • Add to shopping cart validating stock and pay with stripe.
- • Create a review and give rating after buying.
- • Edit your profile
- • Change your password via email and receive confirmation email
- • Communicate with the ecommercer via WhatsApp
- In the admin section you can.
- • Control from your ecommerce administration panel
- • Module to add, edit, delete and hide instruments
- • Module to view, ban, users.
- • Statistics module of products sold
- • Module to add, edit, ban or hide categories
- • Module to create, edit, delete or ban other admin
- • Global purchase history module for each user
- • Admin profile module
-  ![image](https://user-images.githubusercontent.com/92812509/187521393-0411964f-96a8-49b4-8d66-8d3770fb35c3.png)
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://armucode.vercel.app](https://armucode.vercel.app)
+- 🌱 I’m currently learning **Software Architecture**
 
 - 💬 Ask me about **JavaScript**
 
