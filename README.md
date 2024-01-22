@@ -10,7 +10,7 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS ],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
+         js: ["React", "Redux", "Next"],
          css: ["Tailwind", "Bootstrap"]
       },
       backEnd: {
@@ -18,7 +18,7 @@ const aboutMe = {
       },
       databases: ["PostgreSQL"],
    },
-   currentOccupation: ["Mid Consultant"],
+   currentOccupation: ["Mid Senior web Developer - NTT Data"],
 };
 ```
 
