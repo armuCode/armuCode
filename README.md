@@ -1,5 +1,5 @@
 
-![Armu](https://user-images.githubusercontent.com/92812509/188128294-ea4cca7f-bccc-40b8-b481-95714a2520b8.gif)
+![Armu]([https://user-images.githubusercontent.com/92812509/188128294-ea4cca7f-bccc-40b8-b481-95714a2520b8.gif](https://media.licdn.com/dms/image/D4E16AQEUg5mge3zeig/profile-displaybackgroundimage-shrink_350_1400/0/1707835199287?e=1719446400&v=beta&t=RWUqwyOmEfgSJMExSo-beImrPmWpSzVsLRBUTpdeRBY))
 
 <h3 align="left">A passionate FullStack web developer from Colombia</h3>
 
